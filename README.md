@@ -7,6 +7,7 @@ Supports forcing the following anti-virus to close.
 
 
 -MalwareBytes
+
 -Windows defender+smartscreen
 -
 -more soon
