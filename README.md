@@ -8,6 +8,7 @@ Supports forcing the following anti-virus to close.
 
 -MalwareBytes
 
--Windows defender+smartscreen
+-windowsdefender+smartscreen
+
 -
 -more soon
