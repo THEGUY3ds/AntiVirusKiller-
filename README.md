@@ -12,3 +12,4 @@ Supports forcing the following anti-virus to close.
 
 -
 -more soon
+Offical website: https://theguy3ds.github.io/AntiVirusKiller/ -This is used by the auto updater as well.
